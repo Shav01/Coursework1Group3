@@ -1,4 +1,4 @@
-# Coursework1Group3
+# Embedded_Systems_Design_Project
 
 **Learning Outcomes:** Be able to design embedded systems.
 
